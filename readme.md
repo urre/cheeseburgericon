@@ -12,6 +12,10 @@ That's it!
 
 ## Build
 
+Install dependencies
+
+	npm install
+
 Clean and optimize the SVG icon
 
 	gulp
