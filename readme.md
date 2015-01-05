@@ -1,10 +1,14 @@
 # The Cheeseburger icon
 
+###[Demo](http://urre.github.io/cheeseburgericon)
+
 Sillyness since [11 jun 2014](https://twitter.com/Urre/status/476681362322522112)
 
-## Get started
+## Use
 
-Use the cheesburger.svg  in `icon`. That's it!
+Use the cheesburger.svg  in the `icon` folder.
+
+That's it!
 
 ## Build
 
