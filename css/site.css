@@ -1,0 +1,60 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	background: #f2f2f2;
+	font-size: 100%;
+	font-family: 'Roboto', sans-serif;
+	border-top: 10px solid white;
+}
+
+h1, h2, h3, h4, p {
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	color: #85144B;
+}
+
+.container {
+	max-width: 50rem;
+	margin: 0 auto;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5rem;
+}
+
+@media screen and (min-width: 1200px) {
+	h1 {
+		font-size: 3rem;
+	}
+}
+
+.twitter-share-button {
+	top: 5px;
+	position: relative;
+}
+
+svg {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.shape {
+	background: yellow;
+}
+
+.shape--stroked {
+	stroke: #333;
+	stroke-dasharray: 8;
+	stroke-width: 1;
+}
