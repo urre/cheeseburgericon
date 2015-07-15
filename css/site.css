@@ -5,16 +5,17 @@ html, body {
 	padding: 0;
 }
 
-
 body {
 	background: #f2f2f2;
 	font-size: 100%;
 	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 	border-top: 10px solid white;
 }
 
 h1, h2, h3, h4, p {
 	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
 }
 
 a {
