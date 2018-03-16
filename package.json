@@ -2,15 +2,11 @@
   "name": "cheeseburger",
   "version": "0.0.1",
   "description": "The Cheeseburger Icon",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Urban Sanden",
+  "license": "MIT",
   "keywords": [
     "icon"
   ],
-  "author": "Urban Sanden",
-  "license": "MIT",
   "devDependencies": {
     "gulp-svgo": "~0.1.1",
     "gulp": "~3.8.10",

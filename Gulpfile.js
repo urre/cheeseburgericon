@@ -1,9 +1,3 @@
-/*-------------------------------------------------------------------
-
-	Clean and optimize SVGs
-
--------------------------------------------------------------------*/
-
 var gulp = require('gulp');
 var svgo = require('gulp-svgo');
 var cleanSketch = require('gulp-clean-sketch');

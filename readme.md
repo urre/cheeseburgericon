@@ -4,7 +4,7 @@
 
 Sillyness since [11 jun 2014](https://twitter.com/Urre/status/476681362322522112)
 
-###[Show me](http://urre.github.io/cheeseburgericon)
+### [Demo](https://urre.github.io/cheeseburgericon)
 
 ## Use
 
